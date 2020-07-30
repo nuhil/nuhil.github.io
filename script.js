@@ -16,7 +16,7 @@ const COMMANDS = {
     "<span class='success'>Master of Science - </span>Computer Science | Lamar University | Aug 2017 | Beaumont, TX, USA<br>" +
     "<span class='success'>Bachelor of Science and Engineering - </span>Computer Science and Engineering | RUET | Bangladesh",
   resume: 
-    "Please, follow <a href='downloads/AKM_Nuhil_Mehdy.pdf' target='_blank' class='success link'>this link</a>",
+    "Please, follow <a href='https://github.com/nuhil/nuhil.github.io/blob/master/downloads/AKM_Nuhil_Mehdy.pdf' target='_blank' class='success link'>this link</a>",
   experience: 
   '<span class="success">Data Science Intern - </span> Micron Technology, Inc. (May 2020 - Present | Boise, ID, USA)<br>' +
   '<span class="success">Graduate Research Assistant - </span> Boise State University (Jan 2018 - Present | Boise, ID, USA)<br>' +
